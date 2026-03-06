@@ -1,13 +1,17 @@
 👋 Hi, I’m Anis (@AnisJshK)
 
-👀 Interested in Full-Stack Web Development, with a growing focus on backend development.
+👀 Interested in Full-Stack Web Development, with a strong focus on backend systems and scalable applications.
 
-🌱 Currently learning JavaScript, Node.js, Express, MongoDB, and REST APIs.
+🌱 Currently learning advanced backend development, WebSockets, TypeScript, and system design concepts.
 
-🛠️ Working with HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, JWT authentication.
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express, TypeScript
+Database & Tools: MongoDB, Prisma, JWT Authentication, WebSockets
+Other Tools: Git, REST APIs
 
-📂 Building real-world projects like a multi-user task management backend and full-stack web apps.
+📂 Building real-world projects such as collaborative apps, backend APIs, and full-stack web applications.
 
-📫 Reach me at: anisshaikh2131@gmail.com
+📫 Reach me at: [anisshaikh2131@gmail.com](mailto:anisshaikh2131@gmail.com)
 
-⚡ Fun fact: I’ve worked with multiple languages — C, C++, C#, Python, and JavaScript.
+⚡ Fun fact: I’ve worked with multiple programming languages — C, C++, C#, Python, and JavaScript.
