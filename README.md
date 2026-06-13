@@ -18,10 +18,6 @@
 
 **Tools:** Git, GitHub, Postman, Vercel
 
-## 📂 Featured Project
-
-🎬 **ShowTime** — A full-stack movie ticket booking platform built with MERN, Clerk Authentication, and Inngest workflows.
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/AnisJShk
