@@ -1,17 +1,57 @@
-👋 Hi, I’m Anis (@AnisJshK)
+# 👋 Hi, I'm Anis Shaikh
 
-👀 Interested in Full-Stack Web Development, with a strong focus on backend systems and scalable applications.
+💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
 
-🌱 Currently learning advanced backend development, WebSockets, TypeScript, and system design concepts.
+## 🚀 About Me
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, TailwindCss, JavaScript, React
-Backend: Node.js, Express, TypeScript
-Database & Tools: MongoDB, Prisma, JWT Authentication, WebSockets
-Other Tools: Git, REST APIs
+* 🌱 Currently learning **Advanced Backend Development, TypeScript, WebSockets, System Design, and DevOps**
+* 🎯 Interested in **Backend Engineering, Full-Stack Development, and Distributed Systems**
+* 🏗️ Building real-world projects including collaborative applications, REST APIs, and full-stack platforms
+* 📚 Always exploring new technologies and best practices in software development
 
-📂 Building real-world projects such as collaborative apps, backend APIs, and full-stack web applications.
+## 🛠️ Tech Stack
 
-📫 Reach me at: [2023bec019@sggs.ac.in](mailto:2023bec019@sggs.ac.in)
+### Frontend
 
-⚡ Fun fact: I’ve worked with multiple programming languages — C, C++, C#, Python, and JavaScript.
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript
+* TypeScript
+* React
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database & Authentication
+
+* MongoDB
+* Prisma
+* JWT Authentication
+* Clerk
+
+### Real-Time & APIs
+
+* WebSockets
+* REST APIs
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* Vercel
+
+## 📂 Featured Projects
+
+* 🎬 **ShowTime** — Full-stack movie ticket booking platform built with MERN, Clerk, and Inngest
+* 🤝 Collaborative web applications
+* 🔗 Backend APIs and real-time applications
+
+## 📫 Contact
+
+* 📧 Email: [2023bec019@sggs.ac.in](mailto:2023bec019@sggs.ac.in)
+* 💼 LinkedIn: [www.linkedin.com/in/anis-shaikh-452744332](http://www.linkedin.com/in/anis-shaikh-452744332)
+* 🐙 GitHub: https://github.com/AnisJShk
