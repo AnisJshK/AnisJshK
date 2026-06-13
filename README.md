@@ -1,57 +1,29 @@
 # 👋 Hi, I'm Anis Shaikh
 
-💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
+💻 Full-Stack Developer focused on building scalable web applications and backend systems.
 
-## 🚀 About Me
+## 🚀 Currently
 
-* 🌱 Currently learning **Advanced Backend Development, TypeScript, WebSockets, System Design, and DevOps**
-* 🎯 Interested in **Backend Engineering, Full-Stack Development, and Distributed Systems**
-* 🏗️ Building real-world projects including collaborative applications, REST APIs, and full-stack platforms
-* 📚 Always exploring new technologies and best practices in software development
+* 🌱 Learning TypeScript, WebSockets, System Design, and DevOps
+* 🎯 Interested in Backend Engineering and Full-Stack Development
+* 🏗️ Building real-world projects with the MERN stack
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend:** React, JavaScript, TypeScript, Tailwind CSS
 
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript
-* TypeScript
-* React
+**Backend:** Node.js, Express.js
 
-### Backend
+**Database & Auth:** MongoDB, Prisma, Clerk, JWT
 
-* Node.js
-* Express.js
+**Tools:** Git, GitHub, Postman, Vercel
 
-### Database & Authentication
+## 📂 Featured Project
 
-* MongoDB
-* Prisma
-* JWT Authentication
-* Clerk
+🎬 **ShowTime** — A full-stack movie ticket booking platform built with MERN, Clerk Authentication, and Inngest workflows.
 
-### Real-Time & APIs
+## 📫 Connect With Me
 
-* WebSockets
-* REST APIs
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Vercel
-
-## 📂 Featured Projects
-
-* 🎬 **ShowTime** — Full-stack movie ticket booking platform built with MERN, Clerk, and Inngest
-* 🤝 Collaborative web applications
-* 🔗 Backend APIs and real-time applications
-
-## 📫 Contact
-
-* 📧 Email: [2023bec019@sggs.ac.in](mailto:2023bec019@sggs.ac.in)
-* 💼 LinkedIn: [www.linkedin.com/in/anis-shaikh-452744332](http://www.linkedin.com/in/anis-shaikh-452744332)
-* 🐙 GitHub: https://github.com/AnisJShk
+* GitHub: https://github.com/AnisJShk
+* LinkedIn: https://www.linkedin.com/in/anis-shaikh-452744332
+* Email: [2023bec019@sggs.ac.in](mailto:2023bec019@sggs.ac.in)
